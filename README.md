@@ -20,7 +20,7 @@ Please find the link to webapp for this project https://cotton-disease-detection
 # How to use Webapp
 
 * Click on Upload image 
-* Download images given in this github page, with names Test1p.png, Test2p.png etc 
+* Download images given in this github page, with names test1.jpg, test2.jpg etc 
 * Upload these images to webapp 
 * Check the result
 
